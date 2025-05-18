@@ -1,0 +1,1 @@
+The codes are intended to be processed by the software [*Quarto*](https://quarto.org/), which can automatically generate epub and html files for reading on a local machine or on the web. Note that the contents are incomplete and the github pages website is currently only for testing. 
