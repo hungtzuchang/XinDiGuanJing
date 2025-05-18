@@ -1,0 +1,15 @@
+.text-sectioning {
+  /*height: 80%;*/
+  /*background-color: lightgray;*/
+  color: orange;
+  /*padding-left: 10px;*/
+  /*box-sizing: border-box;*/
+}
+
+.text-original {
+    font-weight: bold;
+}
+
+.text-right {
+    text-align: right;
+}
