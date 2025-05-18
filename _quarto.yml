@@ -1,0 +1,37 @@
+project:
+  type: book
+
+lang: zh-TW
+
+book:
+  title: "大乘本生心地觀經淺註"
+  author: 
+    - "(唐) 罽賓國三藏 般若 等 譯"
+    - "(清) 神京外栴檀寺沙門 來舟 註"
+  #date: "(清) 神京外栴檀寺沙門 來舟"
+  chapters:
+    - index.qmd
+    - preface.qmd
+    # - summary.qmd
+    # - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - sandstone
+      # - cosmo
+      - brand
+    css: styles.css
+  pdf:
+    documentclass: scrreprt
+  epub:
+    css: styles.css
+
+
+
+language: 
+  title-block-author-single: "譯註"
+  #title-block-published: "注者"
+

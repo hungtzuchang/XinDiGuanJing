@@ -1,0 +1,8 @@
+# Ignore preview/book folder
+_book/
+.quarto/
+
+# Ignore unused files
+summary.qmd
+intro.qmd
+cover.png
